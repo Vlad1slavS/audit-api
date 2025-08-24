@@ -175,4 +175,6 @@ public class MethodController {
                 method, logLevel, eventType, page, size);
         return ResponseEntity.ok(response);
     }
+
 }
+
